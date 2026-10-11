@@ -1,3 +1,3 @@
 # Source code and data of the PhD thesis: 
 
-Data and code used in my PhD thesis, still little messy though.
+Data and code used in my PhD thesis will appear here shortly, cleaning in progress...
